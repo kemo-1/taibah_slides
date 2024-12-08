@@ -27,7 +27,7 @@
  وزاد في السنة التالية بنسبة %12+ وأصبحت ترليون ريال 
  <!-- .element: class="fragment" data-fragment-index="2" -->  
 
-![alt text](assets/image.png)
+![alt text](/assets/image.png)
 
 
 --!
@@ -38,7 +38,7 @@
 <!-- .element: class="fragment" data-fragment-index="1" -->
 من 545 بليون الى 601 بليون ريال سعودي  خلال السنتين الماضية
 <!-- .element: class="fragment" data-fragment-index="2" -->
-![alt text](assets/image-1.png)
+![alt text](/assets/image-1.png)
 
 
 --!
@@ -46,7 +46,7 @@
 
 من 258 بليون ريال إلى 269 بليون ريال زيادة 4%
 <!-- .element: class="fragment" data-fragment-index="1" -->
-![alt text](assets/image-5.png)
+![alt text](/assets/image-5.png)
 
 
 ولنلقي نظرة على مثال لهذه الاستثمارات
@@ -55,11 +55,11 @@
 
 ### استثمارات في بنوك أجنبية
 
-![alt text](assets/image-2.png)
+![alt text](/assets/image-2.png)
 <!-- .element: class="fragment" data-fragment-index="1" -->
 وعلق أحد القراء على هذا الخبر فقال:
 <!-- .element: class="fragment" data-fragment-index="2" -->
-![alt text](assets/image-3.png)
+![alt text](/assets/image-3.png)
 <!-- .element: class="fragment" data-fragment-index="2" -->
 --!
 ### مثال على استثمار غير متوقع
@@ -81,7 +81,7 @@ Note: وفي ظل عدم وجود أصول سائلة كافية لإشباع ر
 وهي أكبر خصوم البنك من 568 بليون ريال إلى 590 بليون ريال  
 زيادة 4%  
 <!-- .element: class="fragment" data-fragment-index="1" -->
-![alt text](assets/image-4.png)
+![alt text](/assets/image-4.png)
 
 Note:   وهذا شغل البنوك التجارية وجل عملها على أخذ أموال الناس والمتاجرة بها والاستثمار  
 
@@ -96,11 +96,11 @@ Note:   وهذا شغل البنوك التجارية وجل عملها على �
 وفي سنة (23) ارتفع بنسبة 11% الى 20 بليون ريال
 <!-- .element: class="fragment" data-fragment-index="2" -->
 
-![alt text](assets/image-6.png)
+![alt text](/assets/image-6.png)
 --!
 
 ### دخل العمليات التشغيلية
-![alt text](assets/image-7.png)
+![alt text](/assets/image-7.png)
 
 دخل العمليات التشغيلية ارتفع من 33 بليون ريال الى 34 بليون 
 <!-- .element: class="fragment" data-fragment-index="1" -->
@@ -117,7 +117,7 @@ Note: وهذا ليس تركيز البنك الأكبر لكنه يشكل مب�
 --!
 
 ### المصاريف على ودائع العملاء
-![alt text](assets/image-8.png)
+![alt text](/assets/image-8.png)
 
 وهذا هو أكبر مصادر الإنفاق في هذه السنة وقد ارتفع بنسبة 175% !!!
 <!-- .element: class="fragment" data-fragment-index="1" -->
@@ -525,10 +525,10 @@ Note: وهذا ليس تركيز البنك الأكبر لكنه يشكل مب�
 
 ## رابط العرض التقديمي  [t.ly/uGRrW](https://t.ly/uGRrW)
 
-![alt text](assets/image-9.png)   
+![alt text](/assets/image-9.png)   
 
 
 --!
 ## رابط العرض التقديمي بصيغة ملف نصي  [t.ly/4U-zo](https://t.ly/4U-zo)
 
-![alt text](assets/image-10.png)  
+![alt text](/assets/image-10.png)  
