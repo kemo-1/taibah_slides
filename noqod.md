@@ -6,7 +6,6 @@
 # القسم الأول : الشريحة الثانية
 --!
 # القسم الأول : الشريحة الثالثة
-
 ---
 # القسم الثاني
 
@@ -28,5 +27,5 @@ eyJoaXN0b3J5IjpbNDkyMjMyNTQ2LDEyMzI0NDkzNDgsMTc3OT
 M4MDIzMV19
 -->
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTY3NDY0NjQyXX0=
+eyJoaXN0b3J5IjpbLTIxMTIwNzU1MDRdfQ==
 -->
