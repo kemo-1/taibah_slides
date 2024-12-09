@@ -1,35 +1,9 @@
+# عروض تقديمية من المستقبل
+
+![enter image description here](https://github.com/kemo-1/taibah_slides/blob/master/assets/image.png?raw=true)
 
 
-
-# القسم الأول : الشريحة الأولى
---!
-# القسم الأول : الشريحة الثانية
---!
-# القسم الأول : الشريحة الثالثة
----
-
-# القسم الثاني
-
----
-
-# القسم الثالث
-
- --- 
- 
-#  القسم الرابع
-
-
-
-
-
-
+![enter image description here](https://github.com/kemo-1/taibah_slides/blob/master/assets/image-1.png?raw=true)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTIzMjQ0OTM0OCwxNzc5MzgwMjMxXX0=
--->
-<!--stackedit_data:
-eyJoaXN0b3J5IjpbNDkyMjMyNTQ2LDEyMzI0NDkzNDgsMTc3OT
-M4MDIzMV19
--->
-<!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzOTcxODI2MDhdfQ==
+eyJoaXN0b3J5IjpbMTYxNzI1Mzk0NF19
 -->
