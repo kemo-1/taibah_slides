@@ -43,6 +43,12 @@
 --!
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/bjZ_2DDxHXg?si=42O_7vTQcPSyBvSL" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+--! 
+
+![enter image description here](https://github.com/kemo-1/taibah_slides/blob/master/assets/image-3.png?raw=true)
+
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTMxMDQwNTI4N119
+eyJoaXN0b3J5IjpbLTE1MzEzNDMyNDJdfQ==
 -->
