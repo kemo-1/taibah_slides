@@ -1,5 +1,8 @@
 
 ### كيف نحسن من عروضنا التقديمية
+ملاحظة:
+هذا شيء ما راح يظهر في السلايدات
+
 
 --!
 
@@ -50,5 +53,5 @@
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1MzEzNDMyNDJdfQ==
+eyJoaXN0b3J5IjpbLTUxMzA4MjI2MF19
 -->
