@@ -15,3 +15,9 @@
 <!--stackedit_data:
 eyJoaXN0b3J5IjpbLTI5MDk1MTQ1MiwxNjE3MjUzOTQ0XX0=
 -->
+
+
+
+---
+
+![alt text](https://github.com/kemo-1/taibah_slides/blob/master/assets/image.gif?raw=true)
