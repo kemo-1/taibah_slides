@@ -6,7 +6,6 @@
 2. صعوبة تعديل السلايدات والبحث عن سلايدات معنية
 3. صعوبة العمل الجماعي عليها
 
-
 --!
 ![enter image description here](https://github.com/kemo-1/taibah_slides/blob/master/assets/image.png?raw=true)
 
