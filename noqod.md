@@ -29,7 +29,10 @@
 ![enter image description here](https://github.com/kemo-1/taibah_slides/blob/master/assets/image-1.png?raw=true)
 
 
-  
+  --!
+  ![enter image description here](https://github.com/kemo-1/taibah_slides/blob/master/assets/image-2.png?raw=true)
+
+
 
 ---
 
@@ -41,5 +44,5 @@
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/bjZ_2DDxHXg?si=42O_7vTQcPSyBvSL" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQ3OTE5MzE1NV19
+eyJoaXN0b3J5IjpbLTMxMDQwNTI4N119
 -->
