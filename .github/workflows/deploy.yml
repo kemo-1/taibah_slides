@@ -19,6 +19,6 @@ jobs:
         with:
           apiToken: ${{ secrets.CLOUDFLARE_API_TOKEN }}
           accountId: 507190fcd28b888632b1f95628832c6a
-          projectName: taibah-slides
+          projectName: tadwer-slides
           directory: .
           gitHubToken: ${{ secrets.GITHUB_TOKEN }}
