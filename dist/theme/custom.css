@@ -11,6 +11,15 @@ html * {
   rendering-intent: auto;
 }
 
+:-webkit-full-screen {
+  background: white !important;
+
+}
+
+.poll-party.styled {
+  width: auto !important;
+}
+
 h3 {
   padding-bottom: 20px;
 }
@@ -50,9 +59,10 @@ section.has-dark-background h6 {
   font-style: normal;
   direction: rtl;
 
-  background-image: url('/assets/background.png');
+  /* background-image: url('/assets/background.png');
   background-repeat: no-repeat;
-  background-position: right 30px top;
+  background-size: 10rem;
+  background-position: right 0px top; */
 
   /* --r-background-color: #55f5df48; */
   /* Deep charcoal for better contrast */

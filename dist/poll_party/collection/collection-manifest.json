@@ -1,0 +1,12 @@
+{
+  "entries": [
+    "components/poll-party/poll-party.js"
+  ],
+  "compiler": {
+    "name": "@stencil/core",
+    "version": "4.0.5",
+    "typescriptVersion": "5.0.4"
+  },
+  "collections": [],
+  "bundles": []
+}

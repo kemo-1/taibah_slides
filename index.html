@@ -30,13 +30,14 @@
 		const section = document.querySelector('section');
 		section.setAttribute(
 			'data-markdown',
-			'noqod.md'
+			'slides.md'
 		);
 	</script>
 	<script src="dist/reveal.js"></script>
 	<script src="plugin/notes/notes.js"></script>
 	<script src="plugin/markdown/markdown.js"></script>
-
+	<script src="plugin/fsfx/fsfx.js"></script>
+	<script type='module' src='dist/poll_party/poll-party/poll-party.esm.js'></script>
 	<script>
 
 
@@ -44,14 +45,28 @@
 		// - https://revealjs.com/initialization/
 		// - https://revealjs.com/config/
 		Reveal.initialize({
+			fsfx: {
+				compatibility: false,
+				auto: {
+					generate: true,
+					color: 'var(--r-main-color)',
+					oppositecolor: 'black',
+					position: {
+						top: 'null',
+						bottom: '20px',
+						left: '20px',
+						right: 'null',
+					}
+				},
+			},
 			// hashOneBasedIndex: true,
 			rtl: true,
 			hideCursorTime: 0,
 			transition: 'slide',
-			slideNumber: true,
+			slideNumber: false,
 			hash: true,
 			scrollActivationWidth: null,
-			plugins: [RevealNotes, RevealMarkdown],
+			plugins: [FsFx, RevealNotes, RevealMarkdown],
 			multiplex: {
 				// Example values. To generate your own, see the socket.io server instructions.
 				secret: null, // Obtained from the socket.io server. Gives this (the master) control of the presentation
