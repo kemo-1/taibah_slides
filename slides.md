@@ -65,8 +65,53 @@
 --!
 ### العوامل الاقتصادية والسياسية
 
-1. التطور العلمي الهائل الذي غير طرق الزراعة و الصناعة والتجارية
+1. التطور العلمي الهائل الذي غير طرق الزراعة و الصناعة والتجارة
 <!-- .element: class="fragment" data-fragment-index="1" -->
 2. التكنولوجيا الحديثة أصبحت جزء أساسي من بيئة العمل
 <!-- .element: class="fragment" data-fragment-index="2" -->
+3. عدم استقرار بعض الدول بسبب الجماعات الإرهابية
+<!-- .element: class="fragment" data-fragment-index="3" -->
+4. تطور طرق الاتصال جعل العالم كالقرية الصغيرة في سهولة تواصل أفرادها
+<!-- .element: class="fragment" data-fragment-index="4" -->
+
+--!
+
+### العوامل السكانية
+
+1. زيادة مساهمة المرأة في القوه العاملة
+<!-- .element: class="fragment" data-fragment-index="1" -->
+2. نمو او انخفاض معدل السكان في المجتمع
+<!-- .element: class="fragment" data-fragment-index="2" -->
+3. متوسط أعمار الفئة العاملة
+<!-- .element: class="fragment" data-fragment-index="3" -->
+4. ارتفاع أو انخفاض معدلات البطالة
+<!-- .element: class="fragment" data-fragment-index="4" -->
+
+
+--!
+
+### اتجاهات سوق العمل
+
+1. الرجل و المرأة يساهمان في دخل العائلة
+<!-- .element: class="fragment" data-fragment-index="1" -->
+2. عدد العاملين في الوظائف الإدارية والاحترافية يزيد بمعدل أكبر من الوظائف العمالية و العمالة اليدوية
+<!-- .element: class="fragment" data-fragment-index="2" -->
+3. العاملون في مجالات المعلومات و الخدمات يزيدون على حساب العاملين في الصناعة و الزراعة
+<!-- .element: class="fragment" data-fragment-index="3" -->
+4. تحول المعرفة من ملكية المنظمات الى ملكية الأفراد ومن لديه المعرفة فهو ذو قيمة أكبر من غيره في الشركة
+<!-- .element: class="fragment" data-fragment-index="4" -->
+
+
+--!
+
+### قيم العمل
+
+1. يطالب العاملين الجدد
+<!-- .element: class="fragment" data-fragment-index="1" -->
+2. نمو او انخفاض معدل السكان في المجتمع
+<!-- .element: class="fragment" data-fragment-index="2" -->
+3. متوسط أعمار الفئة العاملة
+<!-- .element: class="fragment" data-fragment-index="3" -->
+4. ارتفاع أو انخفاض معدلات البطالة
+<!-- .element: class="fragment" data-fragment-index="4" -->
 
