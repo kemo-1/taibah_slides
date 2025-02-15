@@ -5,18 +5,18 @@
 <!-- ### المهن والوظائف -->
 <!-- ![enter image description here](/assets/d2.png) -->
 --!
+### رابط العرض التقديمي
 
+![enter image description here](/assets/image-1.png)
+
+--!
 
 تطورت المهن عبر التاريخ من المهن التقليدية (كالصيد والزراعة) إلى المهن الحديثة المرتبطة بالتكنولوجيا وشبكات الانترنت.  
 
 اختيار المهنة هو قرار شخصي، لكنه يتأثر بالعوامل الاقتصادية والاجتماعية، وفي عصر التطور والتقنية ، أصبحت التكنولوجيا جزءًا أساسيًا من أي وظيفة 
 
 --!
-### رابط العرض التقديمي
 
-![enter image description here](/assets/image-1.png)
-
---!
 
 ### في هذا العرض سنناقش 
 
@@ -468,24 +468,83 @@
 1. ضعف مهارات اتخاذ القرار لدى الفرد
 <!-- .element: class="fragment" data-fragment-index="4" -->
 
-1. الخوف من المجهول ( عدم التأكد )
+1. الخوف من المجهول ( عدم التأكد ) ومن أسبابه:
 <!-- .element: class="fragment" data-fragment-index="5" -->
+
+- صعوبة العثور على معلومات عن الوظائف
+<!-- .element: class="fragment" data-fragment-index="6" -->
+
+- الوظائف تتغير باستمرار فسرعان ما تصبح المعلومة غير مفيدة
+<!-- .element: class="fragment" data-fragment-index="7" -->
+
 --!
 
 
-### صعوبة قرار اختيار الوظيفة
-1. أهمية القرار
+
+### الحزم وعدمه عند اتخاذ القرار
+
+--!
+
+### من صفات الشخص الحازم
+
+1. يشعر أن لديه السيطرة على حياته
 <!-- .element: class="fragment" data-fragment-index="1" -->
 
 
-1. قلة معرفة البعض بنفسه
+1. يشعر بالتفاؤل نحو مستقبله
 <!-- .element: class="fragment" data-fragment-index="2" -->
 
-1. عدم معرفة الوظائف المتاحة
+1. أهدافه الوظيفية واضحة وقابلة للقياس
 <!-- .element: class="fragment" data-fragment-index="3" -->
 
-1. ضعف مهارات اتخاذ القرار لدى الفرد
+1. متأكد وواثق في الأحداث من حوله
 <!-- .element: class="fragment" data-fragment-index="4" -->
 
-1. الخوف من المجهول ( عدم التأكد )
+1. لديه اطلاع بالوظائف والمهن المتاحة حوله
 <!-- .element: class="fragment" data-fragment-index="5" -->
+
+
+--!
+
+
+### كيف تصفي الاختيارات الوظيفية
+
+1. اصنع صورة ذهنية عن "الوظيفة المثالية"
+<!-- .element: class="fragment" data-fragment-index="1" -->
+
+2. قم بمقارنة هذه الصورة مع البدائل المتاحة أمامك
+<!-- .element: class="fragment" data-fragment-index="2" -->
+
+3. قم باختيار أقرب البدائل لهذه الصورة
+<!-- .element: class="fragment" data-fragment-index="3" -->
+
+--!
+
+### كيف أجد شكل الوظيفة المثالية لي؟
+
+1. تعرف على نفسك
+<!-- .element: class="fragment" data-fragment-index="1" -->  
+
+
+
+حلل وادرس سماتك الشخصية وميولك الوظيفي وقيمك ودوافعك
+<!-- .element: class="fragment" data-fragment-index="2" -->  
+
+
+
+2. تعرف على الوظائف المحيطة بك
+<!-- .element: class="fragment" data-fragment-index="3" -->  
+
+
+قم بجمع معلومات عن عدد من الوظائف  مثل مسؤولياتها وطبيعة العمل فيها
+<!-- .element: class="fragment" data-fragment-index="4" -->
+--!
+
+3. قم بتصفية الوظائف التي لا تناسبك
+
+بعد دراسة نفسك أصبحت تعلم ما تريده وما تبغضه
+<!-- .element: class="fragment" data-fragment-index="1" -->  
+
+![alt text](/assets/image-7.png)
+<!-- .element: class="fragment" data-fragment-index="2" -->
+
