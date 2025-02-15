@@ -1,3 +1,79 @@
+@media (max-width: 757px) {
+  .fsfxautobutton {
+    margin-left: 30px !important
+  }
+
+  .slide-menu-button {
+    margin-bottom: 5px !important
+  }
+
+}
+
+:-webkit-full-screen .slide-menu-button {
+  display: none;
+}
+
+:-webkit-full-screen .fsfxautobutton {
+  margin-left: 0px !important;
+}
+
+li[data-slide-v="0"] .slide-menu-item-title {
+  font-size: large !important;
+  margin-right: 10px;
+}
+
+.slide-menu-wrapper .slide-menu-item,
+.slide-menu-wrapper .slide-menu-item-vertical {
+  direction: rtl !important;
+  text-align: right !important;
+}
+
+/* Webkit-based browsers */
+.slide-menu-panel::-webkit-scrollbar {
+  width: 10px;
+  /* Width of the scrollbar */
+}
+
+.slide-menu-panel::-webkit-scrollbar-thumb {
+  background: #44616e;
+  /* Scrollbar thumb color */
+  border-radius: 5px;
+  /* Rounded corners for the thumb */
+}
+
+.slide-menu-panel::-webkit-scrollbar-thumb:hover {
+  background: #44616e;
+  /* Darker color on hover */
+}
+
+.slide-menu-panel::-webkit-scrollbar-track {
+  border: 1px dotted #bac2ff;
+  /* background: var(--r-heading-color); */
+  /* Scrollbar track color */
+  border-radius: 5px;
+  /* Rounded corners for the track */
+}
+
+
+.slide-menu-wrapper .slide-menu-toolbar>li.active-toolbar-button {
+  color: white;
+  text-shadow: none !important;
+  text-decoration: none !important;
+}
+
+.fas.fa-bars {
+  color: var(--r-heading-color);
+}
+
+.slide-menu {
+  background-color: #15161d !important;
+}
+
+.slide-menu-item-title {
+  color: var(--r-heading-color);
+
+}
+
 /**
  * Dracula Dark theme for reveal.js.
  * Based on https://draculatheme.com
@@ -45,6 +121,9 @@ ol {
   display: block !important;
 }
 
+.reveal i {
+  color: #81a0ee !important
+}
 
 section.has-dark-background,
 section.has-dark-background h1,
@@ -411,7 +490,7 @@ section.has-dark-background h6 {
  * NAVIGATION CONTROLS
  *********************************************/
 .reveal .controls {
-  color: var(--r-link-color);
+  color: #81a0ee;
 }
 
 /*********************************************
@@ -419,7 +498,7 @@ section.has-dark-background h6 {
  *********************************************/
 .reveal .progress {
   background: rgba(0, 0, 0, 0.2);
-  color: var(--r-link-color);
+  color: var(--r-heading-color);
 }
 
 /*********************************************

@@ -61,7 +61,7 @@
 ### العوامل المؤثرة في شكل المهن و الوظائف
 
   
-
+--!
 1. العوامل الاقتصادية والسياسية
 <!-- .element: class="fragment" data-fragment-index="1" -->
 
@@ -88,7 +88,7 @@
 
   
 --!
-### العوامل الاقتصادية والسياسية
+### 1. العوامل الاقتصادية والسياسية
 
 1. التطور العلمي الهائل الذي غير طرق الزراعة و الصناعة والتجارة
 <!-- .element: class="fragment" data-fragment-index="1" -->
@@ -104,7 +104,7 @@
 
 --!
 
-### العوامل السكانية
+### 2. العوامل السكانية
 
 1. زيادة مساهمة المرأة في القوه العاملة
 <!-- .element: class="fragment" data-fragment-index="1" -->
@@ -122,7 +122,7 @@
 
 --!
 
-### اتجاهات سوق العمل
+### 3. اتجاهات سوق العمل
 
 1. الرجل و المرأة يساهمان في دخل العائلة
 <!-- .element: class="fragment" data-fragment-index="1" -->
@@ -140,7 +140,7 @@
 
 --!
 
-### قيم العمل
+### 4. قيم العمل
 
 1. يطالب العاملون الجدد بوظائف ذات تحدي وقيم و معنى
 <!-- .element: class="fragment" data-fragment-index="1" -->
@@ -448,3 +448,44 @@
 - معلومات عن الأجور و الرواتب
 <!-- .element: class="fragment" data-fragment-index="7" -->
 
+---
+
+### قرار اختيار المهنة والوظيفة
+
+--!
+
+### صعوبة قرار اختيار الوظيفة
+1. أهمية القرار
+<!-- .element: class="fragment" data-fragment-index="1" -->
+
+
+1. قلة معرفة البعض بنفسه
+<!-- .element: class="fragment" data-fragment-index="2" -->
+
+1. عدم معرفة الوظائف المتاحة
+<!-- .element: class="fragment" data-fragment-index="3" -->
+
+1. ضعف مهارات اتخاذ القرار لدى الفرد
+<!-- .element: class="fragment" data-fragment-index="4" -->
+
+1. الخوف من المجهول ( عدم التأكد )
+<!-- .element: class="fragment" data-fragment-index="5" -->
+--!
+
+
+### صعوبة قرار اختيار الوظيفة
+1. أهمية القرار
+<!-- .element: class="fragment" data-fragment-index="1" -->
+
+
+1. قلة معرفة البعض بنفسه
+<!-- .element: class="fragment" data-fragment-index="2" -->
+
+1. عدم معرفة الوظائف المتاحة
+<!-- .element: class="fragment" data-fragment-index="3" -->
+
+1. ضعف مهارات اتخاذ القرار لدى الفرد
+<!-- .element: class="fragment" data-fragment-index="4" -->
+
+1. الخوف من المجهول ( عدم التأكد )
+<!-- .element: class="fragment" data-fragment-index="5" -->

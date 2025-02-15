@@ -1,9 +1,9 @@
 <!doctype html>
-<html lang="en">
+<html lang="ar" dir="rtl">
 
 <head>
-	<meta charset="utf-8">
-
+	<meta charset="UTF-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1.0">
 	<title>الفصل الثالث: المهن و الوظائف</title>
 
 	<link rel="stylesheet" href="dist/reset.css">
@@ -37,6 +37,7 @@
 	<script src="plugin/notes/notes.js"></script>
 	<script src="plugin/markdown/markdown.js"></script>
 	<script src="plugin/fsfx/fsfx.js"></script>
+	<script src="plugin/menu/menu.js"></script>
 	<script type='module' src='dist/poll_party/poll-party/poll-party.esm.js'></script>
 	<script>
 
@@ -45,6 +46,9 @@
 		// - https://revealjs.com/initialization/
 		// - https://revealjs.com/config/
 		Reveal.initialize({
+			menu: {
+				useTextContentForMissingTitles: false, hideMissingTitles: true,
+			},
 			fsfx: {
 				compatibility: false,
 				auto: {
@@ -54,7 +58,7 @@
 					position: {
 						top: 'null',
 						bottom: '20px',
-						left: '20px',
+						left: '8vw',
 						right: 'null',
 					}
 				},
@@ -66,7 +70,7 @@
 			slideNumber: false,
 			hash: true,
 			scrollActivationWidth: null,
-			plugins: [FsFx, RevealNotes, RevealMarkdown],
+			plugins: [FsFx, RevealNotes, RevealMarkdown, RevealMenu],
 			multiplex: {
 				// Example values. To generate your own, see the socket.io server instructions.
 				secret: null, // Obtained from the socket.io server. Gives this (the master) control of the presentation
