@@ -323,9 +323,128 @@
 1. الدخل
 <!-- .element: class="fragment" data-fragment-index="6" -->
 
+--!
 
+### محتويات الدليل
+
+1. وظائف الإدارة ( التمويل , المحاسبة , الموارد البشرية)
+<!-- .element: class="fragment" data-fragment-index="1" -->
+
+1. الوظائف التخصصية (الهندسة , الطب , التمريض)
+<!-- .element: class="fragment" data-fragment-index="2" -->
+
+1. الوظائف الخدمية ( الطباخيين , الحلاقيين , رجال الإطفاء )
+<!-- .element: class="fragment" data-fragment-index="3" -->
+
+1. وظائف المبيعات ( مندوب مبيعات , بائع عقارات )
+<!-- .element: class="fragment" data-fragment-index="4" -->
+
+1. الوظائف المكتبية ( موظف استقبال , مدخل بيانات ,سيكارتير )
+<!-- .element: class="fragment" data-fragment-index="5" -->
+
+1. الوظائف الزراعية 
+<!-- .element: class="fragment" data-fragment-index="6" -->
+
+--!
+7. وظائف الإنشاءات ( السباكين , البنائين , الكهربائيين)
+<!-- .element: class="fragment" data-fragment-index="1" -->
+
+1. وظائف الصيانة والإصلاح ( الميكانيكيين ,فني إصلاح أجهزة الكمبيوتر)
+<!-- .element: class="fragment" data-fragment-index="2" -->
+
+1. الوظائف الإنتاجية ( تعليب وصناعة الأغذية, صناعة المعادن والبلاستيك)
+<!-- .element: class="fragment" data-fragment-index="3" -->
+
+1. وظائف النقل ( الطيار , سائق السيارة و الحافلة )
+<!-- .element: class="fragment" data-fragment-index="4" -->
+
+1. وظائف الدفاع و القوات المسلحة ( كافة الوظائف التي تعمل في الجيش وتحتوي على وظائف مدنية من المجموعات السابقة )
+<!-- .element: class="fragment" data-fragment-index="5" -->
+
+
+ 
 --!
 
 2. شبكة المعلومات المهنية
+![alt text](/assets/image-6.png)
 
 --!
+
+1. خصائص العاملين بالوظيفة
+
+
+  - القدرات
+  <!-- .element: class="fragment" data-fragment-index="1" -->
+
+  - الميول المهنية
+  <!-- .element: class="fragment" data-fragment-index="2" -->
+
+  - السلوك الوظيفي
+  <!-- .element: class="fragment" data-fragment-index="3" -->
+
+
+2. متطلبات العاملين بالوظيفة
+
+  - المهارات الأساسية في الوظيفة
+  <!-- .element: class="fragment" data-fragment-index="4" -->
+
+  - مهارات وظيفية أخرى
+  <!-- .element: class="fragment" data-fragment-index="5" -->
+
+  - المعارف
+  <!-- .element: class="fragment" data-fragment-index="6" -->
+
+  - التعليم
+  <!-- .element: class="fragment" data-fragment-index="7" -->
+
+
+--!
+
+3. الخبرة المطلوبة
+
+- التدريب
+<!-- .element: class="fragment" data-fragment-index="1" -->
+
+- نوع الخبرة ومدتها
+<!-- .element: class="fragment" data-fragment-index="2" -->
+
+- الإجازات والتراخيص
+<!-- .element: class="fragment" data-fragment-index="3" -->
+
+
+4. مواصفات المهنة
+
+- أنشطة الوظيفة
+<!-- .element: class="fragment" data-fragment-index="4" -->
+
+- بيئة العمل و المنظمة
+<!-- .element: class="fragment" data-fragment-index="5" -->
+
+--!
+5. مواصفات تفصيلية للمهنة
+
+
+- المعارف المطلوبة للوظيفة
+<!-- .element: class="fragment" data-fragment-index="1" -->
+
+- المهارات المهنية المطلوبة
+<!-- .element: class="fragment" data-fragment-index="2" -->
+
+- المهام
+<!-- .element: class="fragment" data-fragment-index="3" -->
+
+- المعدات و الأدوات
+<!-- .element: class="fragment" data-fragment-index="4" -->
+
+
+6. ظروف المهنة
+
+- معلومات عن سوق العمل
+<!-- .element: class="fragment" data-fragment-index="5" -->
+
+- معلومات عن مستقبل المهنة
+<!-- .element: class="fragment" data-fragment-index="6" -->
+
+- معلومات عن الأجور و الرواتب
+<!-- .element: class="fragment" data-fragment-index="7" -->
+
