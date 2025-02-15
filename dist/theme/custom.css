@@ -20,13 +20,11 @@ html * {
   width: auto !important;
 }
 
-h3 {
+/* h3 {
   padding-bottom: 20px;
 }
 
-ul {
-  padding-right: 50px;
-}
+
 
 li {
   padding-top: 10px;
@@ -36,7 +34,17 @@ ul li {
 
   width: 50%;
   float: right;
+} */
+ol {
+  padding-right: 50px;
 }
+
+.reveal ol,
+.reveal dl,
+.reveal ul {
+  display: block !important;
+}
+
 
 section.has-dark-background,
 section.has-dark-background h1,
